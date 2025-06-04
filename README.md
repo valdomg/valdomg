@@ -1,3 +1,4 @@
+<img src="banner.gif" alt="GitHub Banner" width="100%"  />
 #👾  Valdemiro Gabriel
 
 **`Desenvolvedor Backend`**
