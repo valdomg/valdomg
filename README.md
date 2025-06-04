@@ -75,9 +75,6 @@ Olá, me chamo Valdemiro Gabriel, tenho 23 anos, sou estudante de Análise e Des
     src="https://github-readme-stats.vercel.app/api?username=valdomg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<br/>
-<br/>
-
 <img 
       align="left" 
       alt="GitHub Stats" 
