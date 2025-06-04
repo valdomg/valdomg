@@ -1,5 +1,8 @@
-<img src="banner.gif" alt="GitHub Banner" width="100%"  />
-#👾  Valdemiro Gabriel
+
+<img src="banner.gif" alt="Art By @Anasabdin" width="100%" />
+<p>Art By @Anasabdin</p>
+
+# 👾 Valdemiro Gabriel
 
 **`Desenvolvedor Backend`**
 
@@ -71,6 +74,9 @@ Olá, me chamo Valdemiro Gabriel, tenho 23 anos, sou estudante de Análise e Des
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=valdomg&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+
+<br/>
+<br/>
 
 <img 
       align="left" 
