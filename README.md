@@ -94,11 +94,23 @@ Olá, me chamo Valdemiro Gabriel, tenho 24 anos, sou estudante de Análise e Des
 
 ### 📊 Estatísticas
 
-<p>
+<div align="center">
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=valdomg&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=onedark)](https://github-stats-extended.vercel.app/api?username=valdomg&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=onedark)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=valdomg&layout=compact&langs_count=6&theme=onedark)](https://github-stats-extended.vercel.app/api/top-langs?username=valdomg&layout=compact&langs_count=6&theme=onedark)
-</p>
+
+</div>
+
+
+### 📦 Repositórios
+<div align="center">
+
+| | |
+|:-:|:-:|
+| [![Projetos EmbarcaTech](https://github-stats-extended.vercel.app/api/pin?username=valdomg&repo=Projetos-EmbarcaTech&show_owner=true&theme=onedark)](https://github.com/valdomg/Projetos-EmbarcaTech) | [![Lendas do Nordeste](https://github-stats-extended.vercel.app/api/pin?username=valdomg&repo=LENDAS-DO-NORDESTE&show_owner=true&theme=onedark)](https://github.com/valdomg/LENDAS-DO-NORDESTE) |
+| [![Projeto de Hotelaria](https://github-stats-extended.vercel.app/api/pin?username=valdomg&repo=Hotel_Eng&show_owner=true&theme=onedark)](https://github.com/valdomg/REPOSITORIO3) | [![Projeto com Embarcado](https://github-stats-extended.vercel.app/api/pin?username=valdomg&repo=Rosa-dos-ventos&show_owner=true&theme=onedark)](https://github.com/valdomg/Rosa-dos-Ventos) |
+
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valdomg/valdomg/output/github-snake-dark.svg" />
