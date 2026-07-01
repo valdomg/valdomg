@@ -6,7 +6,7 @@
 
 **`Desenvolvedor Backend`**
 
-Olá, me chamo Valdemiro Gabriel, tenho 23 anos, sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí Campus de Pedro II. Gosto de Robótica, Sistemas Embarcados, Sistemas Web e as vezes desenvolver jogos engraçados. Atualmente faço residência em Sistemas Embarcados.
+Olá, me chamo Valdemiro Gabriel, tenho 24 anos, sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí Campus de Pedro II. Gosto de Robótica, Sistemas Embarcados, Sistemas Web e as vezes desenvolver jogos engraçados. Atualmente faço residência em Sistemas Embarcados.
 
 ---
 
