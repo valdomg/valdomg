@@ -93,10 +93,12 @@ Olá, me chamo Valdemiro Gabriel, tenho 24 anos, sou estudante de Análise e Des
 <br/>
 
 ### 📊 Estatísticas
+
+<p>
+
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=valdomg)](https://github.com/stats-organization/github-stats-extended)
-
-  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=valdomg&langs_count=4)
-
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=valdomg&langs_count=4)
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valdomg/valdomg/output/github-snake-dark.svg" />
